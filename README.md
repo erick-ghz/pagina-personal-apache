@@ -5,5 +5,6 @@
 
 ### Ejecicio de impementación de un sitio web en el entorno local con Apache 2
 Autor: Erick Alexis Gómez Hernández
-Email: erick.gomez@bec.cert.unam.mx
+
+Email: erick.gomez@bec.cert.unam.mx 
 
